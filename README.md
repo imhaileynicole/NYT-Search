@@ -1,1 +1,1 @@
-# NYT Search
+# NYT-Search
