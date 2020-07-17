@@ -1,0 +1,11 @@
+.jumbotron{
+    display: flex;
+    justify-content: center;
+    color: white;
+
+
+}
+
+.jumbotron{
+    background-color: rgb(28, 8, 121);
+}
